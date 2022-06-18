@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15840" started-at="2022-05-29T08:27:10Z" finished-at="2022-05-29T08:27:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15840" started-at="2022-05-29T08:27:10Z" finished-at="2022-05-29T08:27:26Z">
+      <class name="qaautomation.may2022.APITestAfterRefactor">
+        <test-method status="PASS" signature="login()[pri:0, instance:qaautomation.may2022.APITestAfterRefactor@54e22bdd]" name="login" is-config="true" duration-ms="5563" started-at="2022-05-29T08:27:10Z" finished-at="2022-05-29T08:27:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="configAPI()[pri:0, instance:qaautomation.may2022.APITestAfterRefactor@54e22bdd]" name="configAPI" duration-ms="1572" started-at="2022-05-29T08:27:15Z" finished-at="2022-05-29T08:27:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAPI -->
+        <test-method status="PASS" signature="login()[pri:0, instance:qaautomation.may2022.APITestAfterRefactor@54e22bdd]" name="login" is-config="true" duration-ms="1670" started-at="2022-05-29T08:27:17Z" finished-at="2022-05-29T08:27:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="dashboardAPI()[pri:0, instance:qaautomation.may2022.APITestAfterRefactor@54e22bdd]" name="dashboardAPI" duration-ms="1750" started-at="2022-05-29T08:27:19Z" finished-at="2022-05-29T08:27:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dashboardAPI -->
+        <test-method status="PASS" signature="login()[pri:0, instance:qaautomation.may2022.APITestAfterRefactor@54e22bdd]" name="login" is-config="true" duration-ms="1666" started-at="2022-05-29T08:27:21Z" finished-at="2022-05-29T08:27:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="fakerTest()[pri:0, instance:qaautomation.may2022.APITestAfterRefactor@54e22bdd]" name="fakerTest" duration-ms="192" started-at="2022-05-29T08:27:22Z" finished-at="2022-05-29T08:27:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fakerTest -->
+        <test-method status="PASS" signature="login()[pri:0, instance:qaautomation.may2022.APITestAfterRefactor@54e22bdd]" name="login" is-config="true" duration-ms="1703" started-at="2022-05-29T08:27:22Z" finished-at="2022-05-29T08:27:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="userAPI()[pri:0, instance:qaautomation.may2022.APITestAfterRefactor@54e22bdd]" name="userAPI" duration-ms="1549" started-at="2022-05-29T08:27:24Z" finished-at="2022-05-29T08:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userAPI -->
+      </class> <!-- qaautomation.may2022.APITestAfterRefactor -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
